@@ -56,3 +56,12 @@ button {
 button:hover {
   background: #ddd;
 }
+
+.link {
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #555;
+  font-style: italic;
+  opacity: 0.5;
+}
+
